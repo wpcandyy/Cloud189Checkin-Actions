@@ -8,6 +8,8 @@
 3.可在脚本内直接填写账号密码  
 4.Python 和需要模块都装好了直接在目录 cmd 运行所要运行的脚本。  
 
+详细教程：[天翼云盘免费扩容教程：利用 GitHub Actions 自动签到 + 抽奖](https://laowangblog.com/cloud-189-add-storage.html)
+
 登录看的以下项目：
 > [Cloud189](https://github.com/Dawnnnnnn/Cloud189)
 > [cloud189](https://github.com/Aruelius/cloud189)
